@@ -7,5 +7,6 @@ def test_2():
 def test_new():
     assert 2 < 3
 
-def test_vacy():
+
+def test_another():
     assert 1 == 1
